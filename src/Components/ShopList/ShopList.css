@@ -1,0 +1,6 @@
+.shops-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--shops-list-gap);
+  }
+  

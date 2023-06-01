@@ -1,0 +1,18 @@
+.shops-list .shop-item {
+    background-color: #fff;
+    box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.3);
+    padding: 15px;
+    width: calc((100% - var(--shops-list-gap)) / 2);
+  }
+  
+  .shops-list .shop-item ul.shop-address-list {
+    list-style-type: none;
+    padding-left: 0;
+    font-weight: 700;
+  }
+  
+  .shops-list .shop-item ul.shop-address-list a {
+    font-weight: 400;
+    text-decoration: none;
+  }
+  
